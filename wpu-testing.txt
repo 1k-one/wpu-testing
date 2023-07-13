@@ -2,5 +2,4 @@ WPU TESTING
 - Belajar Coding
 - Membuat Platform untuk mengelola video
 - Membuat forum Diskusi
-- Membuat website
 - Deployment Aplikasi
